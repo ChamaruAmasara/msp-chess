@@ -1,0 +1,1409 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "CheckMate - Chess Club & Tournaments Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.3",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/bimberonline.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Prices & Monthly Fees",
+            "screenshot": "screenshots\/prices-monthly-fees.jpg",
+            "source": "templates\/prices-monthly-fees.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/template-kit\/prices-monthly-fees\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Lesson",
+            "screenshot": "screenshots\/single-lesson.jpg",
+            "source": "templates\/single-lesson.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/template-kit\/single-lesson\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About the Club",
+            "screenshot": "screenshots\/about-the-club.jpg",
+            "source": "templates\/about-the-club.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/template-kit\/about-the-club\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Become a Partner",
+            "screenshot": "screenshots\/become-a-partner.jpg",
+            "source": "templates\/become-a-partner.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/template-kit\/become-a-partner\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Courses",
+            "screenshot": "screenshots\/courses.jpg",
+            "source": "templates\/courses.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/template-kit\/courses\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Private Lessons",
+            "screenshot": "screenshots\/private-lessons.jpg",
+            "source": "templates\/private-lessons.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/template-kit\/private-lessons\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "School Chess",
+            "screenshot": "screenshots\/school-chess.jpg",
+            "source": "templates\/school-chess.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/template-kit\/school-chess\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Friendlies & Events",
+            "screenshot": "screenshots\/friendlies-events.jpg",
+            "source": "templates\/friendlies-events.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/template-kit\/friendlies-events\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header (Menu White)",
+            "screenshot": "screenshots\/header-menu-white-.jpg",
+            "source": "templates\/header-menu-white-.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/?elementor_library=header-menu-white",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page\/1613"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Page #1613."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/bimberonline.com\/checkmate\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "image-section-15-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-15-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/prices-monthly-fees.json",
+                    "name": "Prices & Monthly Fees"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/single-lesson.json",
+                    "name": "Single Lesson"
+                },
+                {
+                    "source": "templates\/about-the-club.json",
+                    "name": "About the Club"
+                },
+                {
+                    "source": "templates\/become-a-partner.json",
+                    "name": "Become a Partner"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/private-lessons.json",
+                    "name": "Private Lessons"
+                },
+                {
+                    "source": "templates\/school-chess.json",
+                    "name": "School Chess"
+                },
+                {
+                    "source": "templates\/friendlies-events.json",
+                    "name": "Friendlies & Events"
+                }
+            ],
+            "filesize": 778475,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-board-and-figures-on-woden-background-PRMDEZQ"
+        },
+        {
+            "filename": "image-section-27-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-27-min-600x281.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 125118,
+            "dimensions": [
+                1938,
+                908
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-24-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-24-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 496648,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-board-NPWTWN"
+        },
+        {
+            "filename": "image-section-50-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-50-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/become-a-partner.json",
+                    "name": "Become a Partner"
+                },
+                {
+                    "source": "templates\/friendlies-events.json",
+                    "name": "Friendlies & Events"
+                }
+            ],
+            "filesize": 234053,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/male-chess-players-playing-thinking-process-8LQNCYU"
+        },
+        {
+            "filename": "image-section-150.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-150-800x375.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 28159,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-04-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-04-min-600x960.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 292823,
+            "dimensions": [
+                1200,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/queen-chess-piece-54WUTKG"
+        },
+        {
+            "filename": "image-icon-11-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-icon-11-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 3330,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-icon-pack-GVEWC8K"
+        },
+        {
+            "filename": "image-section-33-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-33-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 2395,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-icon-pack-GVEWC8K"
+        },
+        {
+            "filename": "image-section-31-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-31-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 2265,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-icon-pack-GVEWC8K"
+        },
+        {
+            "filename": "image-section-10-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-10-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-lesson.json",
+                    "name": "Single Lesson"
+                },
+                {
+                    "source": "templates\/about-the-club.json",
+                    "name": "About the Club"
+                },
+                {
+                    "source": "templates\/become-a-partner.json",
+                    "name": "Become a Partner"
+                },
+                {
+                    "source": "templates\/private-lessons.json",
+                    "name": "Private Lessons"
+                }
+            ],
+            "filesize": 166175,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hand-of-chess-player-moving-the-chess-piece-U9EKYTN"
+        },
+        {
+            "filename": "image-section-36-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-36-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/become-a-partner.json",
+                    "name": "Become a Partner"
+                },
+                {
+                    "source": "templates\/private-lessons.json",
+                    "name": "Private Lessons"
+                }
+            ],
+            "filesize": 25445,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/chess-player-playing-black-figures-queen-move-U5GND8H"
+        },
+        {
+            "filename": "image-section-41-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-41-min-600x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/become-a-partner.json",
+                    "name": "Become a Partner"
+                },
+                {
+                    "source": "templates\/school-chess.json",
+                    "name": "School Chess"
+                },
+                {
+                    "source": "templates\/friendlies-events.json",
+                    "name": "Friendlies & Events"
+                }
+            ],
+            "filesize": 241521,
+            "dimensions": [
+                1920,
+                1705
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-figures-PJN8TGV"
+        },
+        {
+            "filename": "image-icon-12-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-icon-12-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/friendlies-events.json",
+                    "name": "Friendlies & Events"
+                }
+            ],
+            "filesize": 2660,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-icon-pack-GVEWC8K"
+        },
+        {
+            "filename": "image-icon-13-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-icon-13-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/friendlies-events.json",
+                    "name": "Friendlies & Events"
+                }
+            ],
+            "filesize": 3538,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-icon-pack-GVEWC8K"
+        },
+        {
+            "filename": "image-icon-14-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-icon-14-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 3061,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-icon-pack-GVEWC8K"
+        },
+        {
+            "filename": "image-icon-15-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-icon-15-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 3767,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-icon-pack-GVEWC8K"
+        },
+        {
+            "filename": "image-section-07-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-07-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/private-lessons.json",
+                    "name": "Private Lessons"
+                },
+                {
+                    "source": "templates\/school-chess.json",
+                    "name": "School Chess"
+                },
+                {
+                    "source": "templates\/friendlies-events.json",
+                    "name": "Friendlies & Events"
+                }
+            ],
+            "filesize": 14463,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-32-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-32-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/friendlies-events.json",
+                    "name": "Friendlies & Events"
+                }
+            ],
+            "filesize": 3946,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-icon-pack-GVEWC8K"
+        },
+        {
+            "filename": "image-section-30-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-30-min-600x899.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 426095,
+            "dimensions": [
+                1281,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/wooden-chess-board-and-making-chess-move-on-stone--3WJYK6G"
+        },
+        {
+            "filename": "image-section-29-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-29-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/private-lessons.json",
+                    "name": "Private Lessons"
+                }
+            ],
+            "filesize": 301685,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/male-chess-players-move-of-white-top-view-9ASMFBY"
+        },
+        {
+            "filename": "image-section-08-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-08-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-lesson.json",
+                    "name": "Single Lesson"
+                },
+                {
+                    "source": "templates\/private-lessons.json",
+                    "name": "Private Lessons"
+                }
+            ],
+            "filesize": 14714,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-40-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-40-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/private-lessons.json",
+                    "name": "Private Lessons"
+                }
+            ],
+            "filesize": 30324,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-different-joyful-millennials-portrai-C7RWEU3"
+        },
+        {
+            "filename": "image-section-39-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-39-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/private-lessons.json",
+                    "name": "Private Lessons"
+                }
+            ],
+            "filesize": 40725,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-different-joyful-millennials-portrai-C7RWEU3"
+        },
+        {
+            "filename": "image-section-38-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-38-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/private-lessons.json",
+                    "name": "Private Lessons"
+                }
+            ],
+            "filesize": 38336,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-different-joyful-millennials-portrai-C7RWEU3"
+        },
+        {
+            "filename": "image-section-37-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-37-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/private-lessons.json",
+                    "name": "Private Lessons"
+                }
+            ],
+            "filesize": 34829,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-different-joyful-millennials-portrai-C7RWEU3"
+        },
+        {
+            "filename": "image-section-09-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-09-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/single-lesson.json",
+                    "name": "Single Lesson"
+                }
+            ],
+            "filesize": 11488,
+            "dimensions": [
+                1230,
+                1230
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-02-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-02-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-lesson.json",
+                    "name": "Single Lesson"
+                }
+            ],
+            "filesize": 529029,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-figures-on-brown-wooden-table-background-PY7JGFJ"
+        },
+        {
+            "filename": "image-section-06-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-06-min-600x899.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-lesson.json",
+                    "name": "Single Lesson"
+                }
+            ],
+            "filesize": 198896,
+            "dimensions": [
+                1281,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-playing-chess-moving-the-queen-piece-P2XUQBZ"
+        },
+        {
+            "filename": "image-section-52-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-52-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/friendlies-events.json",
+                    "name": "Friendlies & Events"
+                }
+            ],
+            "filesize": 8909,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-57-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-57-min-600x375.png",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 20462,
+            "dimensions": [
+                1920,
+                1200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "new-logo-checkmate-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/new-logo-checkmate-min.png",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/header-menu-white-.json",
+                    "name": "Header (Menu White)"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 2882,
+            "dimensions": [
+                300,
+                80
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-58-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-58-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 653352,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-in-the-box-PNGH8T4"
+        },
+        {
+            "filename": "image-section-56-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-56-min-600x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 45544,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-figures-isolated-PLXLHRH"
+        },
+        {
+            "filename": "image-section-22-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-22-min-600x925.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-the-club.json",
+                    "name": "About the Club"
+                },
+                {
+                    "source": "templates\/become-a-partner.json",
+                    "name": "Become a Partner"
+                }
+            ],
+            "filesize": 89671,
+            "dimensions": [
+                1245,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-pieces-TDKQG2H"
+        },
+        {
+            "filename": "image-section-23-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-23-min-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-the-club.json",
+                    "name": "About the Club"
+                },
+                {
+                    "source": "templates\/become-a-partner.json",
+                    "name": "Become a Partner"
+                },
+                {
+                    "source": "templates\/private-lessons.json",
+                    "name": "Private Lessons"
+                }
+            ],
+            "filesize": 211078,
+            "dimensions": [
+                1920,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/face-to-face-P5ZU9F9"
+        },
+        {
+            "filename": "image-section-03-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-03-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-the-club.json",
+                    "name": "About the Club"
+                }
+            ],
+            "filesize": 272969,
+            "dimensions": [
+                1920,
+                1279
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/men-play-chess-GDD5DL4"
+        },
+        {
+            "filename": "image-section-44-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-44-min-600x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-the-club.json",
+                    "name": "About the Club"
+                }
+            ],
+            "filesize": 52946,
+            "dimensions": [
+                1920,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-figures-isolated-PLXLHRH"
+        },
+        {
+            "filename": "teste.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/teste-600x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-the-club.json",
+                    "name": "About the Club"
+                }
+            ],
+            "filesize": 52946,
+            "dimensions": [
+                1920,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-figures-isolated-PLXLHRH"
+        },
+        {
+            "filename": "image-section-43-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-43-min-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-the-club.json",
+                    "name": "About the Club"
+                }
+            ],
+            "filesize": 264320,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/playing-chess-PUKZ7KL"
+        },
+        {
+            "filename": "image-section-45-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-45-min-600x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-the-club.json",
+                    "name": "About the Club"
+                }
+            ],
+            "filesize": 45199,
+            "dimensions": [
+                1920,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-figures-isolated-PLXLHRH"
+        },
+        {
+            "filename": "image-section-46-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-46-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-the-club.json",
+                    "name": "About the Club"
+                }
+            ],
+            "filesize": 22785,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/playing-chess-PUKZ7KL"
+        },
+        {
+            "filename": "image-section-47-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-47-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-the-club.json",
+                    "name": "About the Club"
+                }
+            ],
+            "filesize": 17995,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-and-woman-looking-at-camera-while-playing-ches-S446KDB"
+        },
+        {
+            "filename": "image-section-48-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-48-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-the-club.json",
+                    "name": "About the Club"
+                }
+            ],
+            "filesize": 23527,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/principal-of-chess-club-CZFRNYG"
+        },
+        {
+            "filename": "image-section-49-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-49-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-the-club.json",
+                    "name": "About the Club"
+                }
+            ],
+            "filesize": 28590,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/famous-grandmaster-RC9GHZX"
+        },
+        {
+            "filename": "image-section-16-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-16-min-600x899.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 488466,
+            "dimensions": [
+                1281,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/wooden-chess-board-and-woman-39-s-hand-making-ches-FJL5WSQ"
+        },
+        {
+            "filename": "image-section-17-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-17-min-600x480.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 585126,
+            "dimensions": [
+                1920,
+                1535
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/playing-chess-with-the-kids-EF6UXCF"
+        },
+        {
+            "filename": "image-section-35-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-35-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/private-lessons.json",
+                    "name": "Private Lessons"
+                }
+            ],
+            "filesize": 32958,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-male-chess-players-on-competition-94FDSVL"
+        },
+        {
+            "filename": "image-section-42-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-42-min-600x424.jpg",
+            "templates": [
+                {
+                    "source": "templates\/private-lessons.json",
+                    "name": "Private Lessons"
+                }
+            ],
+            "filesize": 226015,
+            "dimensions": [
+                1920,
+                1358
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-figures-PAJDDU3"
+        },
+        {
+            "filename": "image-section-54-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-54-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/school-chess.json",
+                    "name": "School Chess"
+                }
+            ],
+            "filesize": 442577,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chess-figures-P8KQMYV"
+        },
+        {
+            "filename": "image-section-55-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-55-min.png",
+            "templates": [
+                {
+                    "source": "templates\/school-chess.json",
+                    "name": "School Chess"
+                }
+            ],
+            "filesize": 105772,
+            "dimensions": [
+                500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/queen-chess-piece-PG9ZJM7"
+        },
+        {
+            "filename": "image-section-51-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/checkmate\/wp-content\/uploads\/sites\/101\/2020\/12\/image-section-51-min-600x750.png",
+            "templates": [
+                {
+                    "source": "templates\/friendlies-events.json",
+                    "name": "Friendlies & Events"
+                }
+            ],
+            "filesize": 209544,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/lifestyle-summer-and-people-emotions-concept-close-DXFTCW3"
+        }
+    ]
+}
